@@ -1,4 +1,4 @@
-# Store-a-value-in-the-database
+# Store a value in the database
 In this task, the user is required to enter the sensor number. When pressing Submit, the number will be sent to the database.                                          
 When searching for the sensor number, it will retrieve the required number.
 
